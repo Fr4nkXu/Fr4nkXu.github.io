@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I received my B. Eng. degree in Electronic Information Engineering from Chongqing University, Chongqing, China, in 2022. Currently I am pursuing my M. Sc. degree in Information and Communication Engineering in Wuhan University, Wuhan, China, under the supervision of Prof. Yulin Hu.
+I received my B. Eng. (with honors) degree in Electronic Information Engineering from Chongqing University, Chongqing, China, in 2022. Currently I am pursuing my M. Sc. degree in Information and Communication Engineering in Wuhan University, Wuhan, China, under the supervision of Prof. Yulin Hu.
+
+My research interests include mobile edge computing, ultra-reliable and low-latency communications, physical layer security and optimization methods.
+
 I am a recipient of several honors and awards including _National Scholarship_, _Merit Student of Chongqing_ and _Bachelor Graduate with Honors of Chongqing_. 
 
 **Email**: frankxu@whu.edu.cn
